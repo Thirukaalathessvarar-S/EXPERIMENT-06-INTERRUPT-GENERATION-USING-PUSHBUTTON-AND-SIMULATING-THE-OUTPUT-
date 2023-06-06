@@ -116,7 +116,7 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 
 ## Output screen shots of proteus  :
 ## Led Off
-![exp6ledoff](https://github.com/Thirukaalathessvarar-S/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/121166390/3ae526e4-14e2-43e4-8f86-75cb003ca294)
+![WhatsApp Image 2023-06-06 at 11 44 36 AM](https://github.com/Thirukaalathessvarar-S/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/121166390/e0070a7c-1888-4aa0-bea8-22ae7ac0d05c)
 
 ## Led On
 ![exp6ledon](https://github.com/Thirukaalathessvarar-S/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/121166390/3aacab08-58b3-4da2-bb63-13c1fb68d698)
